@@ -405,17 +405,17 @@ hr {
     font-size: 16px; 
     color: #354b59;}
   .tile.tile-2 .tile-inner {
-    background: url('../tile-sets/udacity/2.png');
+    background: url('C:/Users/Christopher/Pictures/Camera Roll/924263_680853068633494_5544988_a.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('../tile-sets/udacity/4.png');
+    background: url('C:/Users/Christopher/Pictures/Camera Roll/40052003db394237.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url('../tile-sets/udacity/8.png');
+    background: url('C:/Users/Christopher/Pictures/Camera Roll/10413930_731459686892722_2138814697_a.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
